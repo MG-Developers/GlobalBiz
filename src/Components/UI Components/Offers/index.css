@@ -1,0 +1,40 @@
+.offer-heading-container {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.offer-heading {
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+.offer-text {
+  color: gray;
+  font-size: 1.2rem;
+}
+
+.service-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.service-heading-container {
+  background-color: black;
+  color: white;
+}
+
+.service-container .card-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.service-container .card {
+}
+
+.service-container .card img {
+  height: 300px;
+  width: 285px;
+}

@@ -1,0 +1,14 @@
+.faq-heading-container {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.faq-heading {
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+.faq-text {
+  color: gray;
+  font-size: 1.2rem;
+}
